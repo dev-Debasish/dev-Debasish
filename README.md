@@ -40,6 +40,6 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/DebasishAI" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://x.com/DebasishAI" target="blank"><img align="center" src="https://skillicons.dev/icons?i=x" /></a>
 </p>
 
