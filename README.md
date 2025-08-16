@@ -10,14 +10,14 @@
 ### 🚀 About Me
 - 🌱 Currently learning **Machine Learning, Deep Learning, Web Dev**  
 - 💻 I love exploring **Data Science, AI, and Fullstack Development**  
-- 📫 Reach me: **your-email@example.com**  
+- 📫 Reach me: **connectdebasish03@gmail.com**  
 - ⚡ Fun fact: *I believe debugging is just detective work!*  
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,git,github,mysql" />
 </p>
 
 ---
@@ -40,6 +40,6 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://x.com/DebasishAI" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
