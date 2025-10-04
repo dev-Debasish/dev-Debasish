@@ -8,27 +8,26 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Machine Learning, Deep Learning, Web Dev**  
+- 🌱 Currently learning **Machine Learning, Deep Learning, Web Development**  
 - 💻 I love exploring **Data Science, AI, and Fullstack Development**  
 - 📫 Reach me: **connectdebasish03@gmail.com**  
 - ⚡ Fun fact: *I believe debugging is just detective work!*  
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,git,github,mysql,numpy,pandas,matplotlib,seaborn,scikit-learn,keras,torch" />
 </p>
 
----
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-Debasish&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Debasish&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Debasish&layout=compact&theme=radical&langs_count=10" alt="langs" />
 </p>
 
 <p align="center">
@@ -37,9 +36,9 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/DebasishAI" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://linkedin.com/in/debasish-pal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/DebasishAI" target="blank"><img align="center" src="https://skillicons.dev/icons?i=X" /></a>
+<a href="https://linktr.ee/dev_bittu" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linktree" /></a>
 </p>
-
