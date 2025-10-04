@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Debasish</h1>
 <h3 align="center">🚀 Passionate about Data Science | AI | Web Development</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-Debasish&label=Profile%20views&color=0e75b6&style=flat" alt="dev-Debasish" /> 
-</p>
-
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Machine Learning, Deep Learning, Web Development**  
-- 💻 I love exploring **Data Science, AI, and Fullstack Development**  
-- 📫 Reach me: **connectdebasish03@gmail.com**  
-- ⚡ Fun fact: *I believe debugging is just detective work!*  
+### 👨‍💻 About Me
+- 🌱 Currently learning **Machine Learning, Deep Learning, Web Development**
+- 💻 Exploring **Data Science, AI, and Fullstack Projects**
+- 📫 Reach me at: **connectdebasish03@gmail.com**
+- ⚡ Fun fact: *Debugging = Detective work with a keyboard!*  
 
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,git,github,mysql,numpy,pandas,matplotlib,seaborn,scikit-learn,keras,torch" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,mysql,git,github" />
 </p>
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -27,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Debasish&layout=compact&theme=radical&langs_count=10" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Debasish&layout=compact&theme=radical" alt="langs" />
 </p>
 
 <p align="center">
@@ -36,9 +33,19 @@
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/debasish-pal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/DebasishAI" target="blank"><img align="center" src="https://skillicons.dev/icons?i=X" /></a>
-<a href="https://linktr.ee/dev_bittu" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linktree" /></a>
+### 🌟 Featured Projects
+- 🐍 **Python Practice Repo** – Patterns, games, and automation projects  
+- 💸 **Personal Finance Tracker** – Track expenses using Python + CSV  
+- 🎮 **Slot Machine Game** – Fun terminal-based game  
+- 🤖 **WhatsApp Automation** – Send messages using Twilio  
+
+👉 *More projects on my [GitHub Repositories](https://github.com/dev-Debasish?tab=repositories)*  
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/DebasishAI" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://linktr.ee/dev_bittu" target="blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
 </p>
