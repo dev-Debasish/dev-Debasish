@@ -18,18 +18,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-Debasish&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Debasish&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Debasish&layout=compact&theme=radical&hide=html,css,javascript" alt="langs" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dev-Debasish&theme=radical" alt="streak" />
 </p>
+
 
 ---
 
